@@ -36,7 +36,7 @@ function App() {
       <header className='container-fluid'>
         <nav className='navbar fixed-top navbar-dark'>
           <div className='navbar-brand'>
-            Simon<sup>&reg;</sup>
+            TheWaal<sup>&reg;</sup>
           </div>
           <menu className='navbar-nav'>
             <li className='nav-item'>
@@ -90,8 +90,8 @@ function App() {
 
       <footer className='bg-dark text-dark text-muted'>
         <div className='container-fluid'>
-          <span className='text-reset'>Author Name(s)</span>
-          <a className='text-reset' href='https://github.com/webprogramming260/simon-react'>
+          <span className='text-reset'>Stephen Brockbank</span>
+          <a className='text-reset' href='https://github.com/swbrock/startup'>
             Source
           </a>
         </div>
